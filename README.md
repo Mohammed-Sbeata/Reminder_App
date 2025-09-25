@@ -15,13 +15,14 @@ The goal of the app is to make healthcare management easier for patients and doc
 ---
 ## 🛠️ Installation
 1. Clone the repository
-```git clone https://github.com/USERNAME/Reminder_App.git
+```
+git clone https://github.com/USERNAME/Reminder_App.git
 cd Reminder_App
-
+```
 
 ---
 2. Install dependencies
-```flutter pub get
+```flutter pub get```
 
 ---
 
